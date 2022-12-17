@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Image](https://avatars.githubusercontent.com/u/96208382?v=4)
+![Image](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
